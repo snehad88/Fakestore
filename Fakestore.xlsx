@@ -1,0 +1,2 @@
+read_file = pd.read_csv (r'C:\\Users\\USER\\Downloads\\Fakestore2.csv')
+    read_file.to_excel (r'C:\\Users\\USER\\Downloads\\Fakestore2.xlsx', index=None, header=True)
